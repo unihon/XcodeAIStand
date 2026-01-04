@@ -1,0 +1,5 @@
+.vscode
+.build
+.swiftpm
+.dev_note.md
+*.log
