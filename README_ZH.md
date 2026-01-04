@@ -24,6 +24,9 @@ AI 自动感知你在 Xcode 中的编辑状态，无需手动复制粘贴代码�
 ▲ iTerm2 Claude Code CLI with Xcode
 
 ## 使用方法
+
+[XcodeAIStand 下载 ☘️](https://github.com/unihon/XcodeAIStand/releases)
+
 ### 权限要求
 首次运行需要授予辅助功能（Accessibility）权限：
 

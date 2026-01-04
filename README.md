@@ -25,6 +25,8 @@ AI automatically senses your editing state in Xcode. No need to manually copy-pa
 
 ## Getting Started
 
+[XcodeAIStand Download ☘️](https://github.com/unihon/XcodeAIStand/releases)
+
 ### Permission Requirements
 
 First run requires Accessibility permission:
